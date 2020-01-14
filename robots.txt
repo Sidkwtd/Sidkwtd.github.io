@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://Sidkwtd.github.io/sitemap.xml
+Sitemap: https://sidkwtd.gitee.io/blog/sitemap.xml

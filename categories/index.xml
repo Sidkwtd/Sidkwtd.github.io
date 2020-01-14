@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on zbQaq&#39;s blog</title>
-    <link>https://Sidkwtd.github.io/categories/</link>
+    <link>https://sidkwtd.gitee.io/blog/categories/</link>
     <description>Recent content in Categories on zbQaq&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 14 Jan 2020 17:18:47 +0800</lastBuildDate>
     
-	<atom:link href="https://Sidkwtd.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sidkwtd.gitee.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>index</title>
-      <link>https://Sidkwtd.github.io/categories/index/</link>
+      <link>https://sidkwtd.gitee.io/blog/categories/index/</link>
       <pubDate>Tue, 14 Jan 2020 17:18:47 +0800</pubDate>
       
-      <guid>https://Sidkwtd.github.io/categories/index/</guid>
+      <guid>https://sidkwtd.gitee.io/blog/categories/index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://Sidkwtd.github.io/categories/shortcodes/</link>
+      <link>https://sidkwtd.gitee.io/blog/categories/shortcodes/</link>
       <pubDate>Tue, 14 Jan 2020 17:18:47 +0800</pubDate>
       
-      <guid>https://Sidkwtd.github.io/categories/shortcodes/</guid>
+      <guid>https://sidkwtd.gitee.io/blog/categories/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docs</title>
-      <link>https://Sidkwtd.github.io/categories/docs/</link>
+      <link>https://sidkwtd.gitee.io/blog/categories/docs/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>https://Sidkwtd.github.io/categories/docs/</guid>
+      <guid>https://sidkwtd.gitee.io/blog/categories/docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>https://Sidkwtd.github.io/categories/math/</link>
+      <link>https://sidkwtd.gitee.io/blog/categories/math/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>https://Sidkwtd.github.io/categories/math/</guid>
+      <guid>https://sidkwtd.gitee.io/blog/categories/math/</guid>
       <description></description>
     </item>
     
