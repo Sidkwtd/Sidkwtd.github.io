@@ -1,24 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mdr1s on zbQaq&#39;s blog</title>
-    <link>https://sidkwtd.gitee.io/blog/mdr1/</link>
-    <description>Recent content in Mdr1s on zbQaq&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Tue, 14 Jan 2020 21:58:24 +0800</lastBuildDate>
-    
-	<atom:link href="https://sidkwtd.gitee.io/blog/mdr1/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Vedio</title>
-      <link>https://sidkwtd.gitee.io/blog/mdr1/vedio/</link>
-      <pubDate>Tue, 14 Jan 2020 21:58:24 +0800</pubDate>
-      
-      <guid>https://sidkwtd.gitee.io/blog/mdr1/vedio/</guid>
-      <description>image title</description>
-    </item>
-    
-  </channel>
-</rss>
